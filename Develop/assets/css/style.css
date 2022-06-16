@@ -1,21 +1,21 @@
-
+/*Universal selector*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/*body selector*/
 body {
     background-color: #d9dcd6;
 }
-
+/*removed the header class and replaced it with the header selector*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/*the text in the header*/
 header h1 {
     display: inline-block;
     font-size: 48px;
@@ -46,11 +46,11 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/*paragraph selector*/
 p {
     font-size: 16px;
 }
-
+/*hero class identifier*/
 .hero {
     height: 800px;
     width: 100%;
