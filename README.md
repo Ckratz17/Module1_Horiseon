@@ -10,3 +10,5 @@ Module 1-HTML CSS and GIT challenge
 * Organized the structure of the HTML elements by removing all the div elements and replacing them with descriptive elements.
 
 * Added alt tags to the images.
+
+* Added an individual identifier to the search engine article.
